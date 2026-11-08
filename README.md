@@ -5,13 +5,16 @@
 [![Official Website](https://img.shields.io/badge/CorePulse-Official%20Platform-orange.svg)](https://corepulse.su/)
 [![Wiki Database](https://img.shields.io/badge/CorePulse-Dota%202%20UPUP%20Wiki-orange.svg)](https://corepulse.su/wiki/)
 [![Active Promo Codes](https://img.shields.io/badge/Promo%20Codes-Verified%202026-brightgreen.svg)](https://corepulse.su/wiki/promo)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-@corepulsee-red.svg?logo=youtube)](https://www.youtube.com/@corepulsee)
 
 Open-source reference database, client-extracted mechanics, progression calculators, and active in-game promo codes for the Dota 2 custom game **Dota UpUp** (Dota 2 UPUP).
 
 > 🌐 **Official Platform & Interactive Wiki:**  
 > Complete interactive database with live talent simulators, corruption calculator, and weekly code updates:  
 > **[https://corepulse.su/wiki/](https://corepulse.su/wiki/)**  
-> Main Website: **[https://corepulse.su/](https://corepulse.su/)**
+> Main Website: **[https://corepulse.su/](https://corepulse.su/)**  
+> 📺 **Official YouTube Channel:** **[https://www.youtube.com/@corepulsee](https://www.youtube.com/@corepulsee)**  
+> 🎥 **Video Showcase:** **[Watch CorePulse Bot in Action on YouTube](https://www.youtube.com/watch?v=6QXkfZ0Dzz8)**
 
 ---
 
@@ -110,6 +113,9 @@ For players looking to maximize farming efficiency 24/7 without burning out on r
   * Autonomous round advancement & card synergy selection.
   * Real-time hardware telemetry and external execution (no DLL injection, VAC-safe).
   * 24-hour free trial available upon registration.
+* **Video Demonstrations:**
+  * 🎬 [CorePulse Bot Showcase & Gameplay (YouTube)](https://www.youtube.com/watch?v=6QXkfZ0Dzz8)
+  * 📺 [Official YouTube Channel (@corepulsee)](https://www.youtube.com/@corepulsee)
 
 🔗 Official Platform: **[https://corepulse.su/](https://corepulse.su/)**
 
