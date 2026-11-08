@@ -1,0 +1,31 @@
+# Ignore sensitive files and credentials
+*.env
+*.token
+*.key
+*.pem
+*.secret
+*credentials*
+*password*
+*.bak
+*.orig
+
+# Ignore binaries and packages
+*.jar
+*.exe
+*.dll
+*.so
+*.zip
+*.tar.gz
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.tools/

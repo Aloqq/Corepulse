@@ -1,0 +1,15 @@
+{
+  "wiki_url": "https://corepulse.su/wiki/corruption",
+  "tiers": [
+    { "depth": 1, "hp_mult": 1.25, "dmg_mult": 1.12, "soul_mult": 1.50 },
+    { "depth": 2, "hp_mult": 1.55, "dmg_mult": 1.25, "soul_mult": 1.95 },
+    { "depth": 3, "hp_mult": 1.85, "dmg_mult": 1.40, "soul_mult": 2.50 },
+    { "depth": 4, "hp_mult": 2.25, "dmg_mult": 1.60, "soul_mult": 3.10 },
+    { "depth": 5, "hp_mult": 2.70, "dmg_mult": 1.85, "soul_mult": 3.80 },
+    { "depth": 6, "hp_mult": 3.20, "dmg_mult": 2.10, "soul_mult": 4.60 },
+    { "depth": 7, "hp_mult": 4.10, "dmg_mult": 2.55, "soul_mult": 5.70 },
+    { "depth": 8, "hp_mult": 5.20, "dmg_mult": 3.10, "soul_mult": 7.10 },
+    { "depth": 9, "hp_mult": 6.50, "dmg_mult": 3.80, "soul_mult": 8.80 },
+    { "depth": 10, "hp_mult": 14.00, "dmg_mult": 7.20, "soul_mult": 11.50 }
+  ]
+}

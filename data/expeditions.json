@@ -1,0 +1,10 @@
+{
+  "wiki_url": "https://corepulse.su/wiki/expeditions",
+  "vaults": [
+    { "name": "Sky Vault", "base_hours": 8, "recommended_stars": 1, "primary_loot": "Diamonds, Shards" },
+    { "name": "Rift Depths", "base_hours": 6.5, "recommended_stars": 2, "primary_loot": "Reforge Stones, Card Dust" },
+    { "name": "Abyssal Crypt", "base_hours": 5.0, "recommended_stars": 3, "primary_loot": "Mythic Shards, Companion Treats" },
+    { "name": "Ancient Sanctum", "base_hours": 3.5, "recommended_stars": 4, "primary_loot": "Legendary Card Tokens, Relics" },
+    { "name": "Celestial Core", "base_hours": 2.0, "recommended_stars": 5, "primary_loot": "Ascension Runes, Soul Essences" }
+  ]
+}
