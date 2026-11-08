@@ -40,15 +40,29 @@ Open-source reference database, client-extracted mechanics, progression calculat
 
 ## 🎁 Active In-Game Promo Codes (2026)
 
-Enter these codes directly in-game via the custom game chat command `-code <CODE>` or through the in-game Code Center window:
+In Dota UpUp, promo codes are entered via the in-game UI:  
+**Open Shop (top menu) → Click "Promo Code" button in the currency bar → Paste code → "Activate"**.
 
-| Code | Reward | Status |
+### Latest & Active Codes:
+
+| Code | Type / Event | Status |
 | :--- | :--- | :--- |
-| `UPUP666` | 500 Diamonds + 2x Starter Chests | ✅ Verified |
-| `UPUP888` | 888 Diamonds + 1x Epic Companion Scroll | ✅ Verified |
-| `DOTA2UPUP` | 1,000 Shards + 5x Reroll Tokens | ✅ Verified |
-| `WELCOME2026` | 300 Diamonds + 1x Exp Boost (24h) | ✅ Verified |
-| `DISCORD50K` | Exclusive Courier Skin + 500 Shards | ✅ Verified |
+| `UPDATE15` | Latest Patch Release | ✅ Active |
+| `HALLOWEEN` | Halloween Event Reward | ✅ Active |
+| `UPDATE14` | Game Balance Update | ✅ Active |
+| `MEGALODON` | Season Event Reward | ✅ Active |
+| `SEASON4` | Season 4 Launch Code | ✅ Active |
+| `TelegramUpUp` | Community Welcome Code | ✅ Active |
+| `TI2026` | Championship Celebration | ✅ Active |
+| `SEASON3` | Season 3 Code | ✅ Active |
+| `AUTUMN` | Autumn Season Code | ✅ Active |
+| `CRYSTAL` | Bonus Crystals | ✅ Active |
+
+<details>
+<summary><b>Click to expand full archive of all 36 codes</b></summary>
+
+`WELCOME`, `NEWLAUNCH`, `OVERVODKA`, `TEST`, `BirzhaMemov`, `UPDATE`, `DUANWU`, `SORRY`, `SORRY2`, `STRANGERDEV`, `UPDATE2`, `UPDATE3`, `UPDATE4`, `UPDATE5`, `CRYSTAL`, `SEASON2`, `QQWELCOME`, `UPDATE6`, `INFINITY`, `THEINTERNATIONAL`, `UPDATE7`, `UPDATE8`, `TI2026`, `TelegramUpUp`, `AUTUMN`, `SEASON3`, `UPDATE9`, `UPDATE10`, `UPDATE11`, `UPDATE12`, `UPDATE13`, `SEASON4`, `MEGALODON`, `UPDATE14`, `HALLOWEEN`, `UPDATE15`
+</details>
 
 > 💡 **Need the newest codes immediately after patches?**  
 > Check the continuously updated tracker on the web wiki:  

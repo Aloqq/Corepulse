@@ -53,15 +53,11 @@ def calculate_expedition(stars, base_hours=8.0):
 def show_promo_codes():
     promos = load_data("promocodes.json")
     print("\n--- Active Dota 2 UPUP In-Game Promo Codes ---")
-    if promos:
-        for p in promos.get("codes", []):
-            print(f"  Code: -code {p['code']:<12} | Reward: {p['reward']}")
-    else:
-        print("  UPUP666       - 500 Diamonds + 2x Starter Chests")
-        print("  UPUP888       - 888 Diamonds + 1x Epic Scroll")
-        print("  DOTA2UPUP     - 1,000 Shards + 5x Reroll Tokens")
-        print("  WELCOME2026   - 300 Diamonds + 1x Exp Boost")
-    print("\nMore live codes updated daily: https://corepulse.su/wiki/promo\n")
+    print("How to enter: Top menu -> Shop -> Click 'Promo Code' in currency bar -> Paste & Activate\n")
+    codes = promos.get("latest_codes", ["UPDATE15", "HALLOWEEN", "UPDATE14", "MEGALODON", "SEASON4", "TelegramUpUp"])
+    for i, c in enumerate(codes[:10], 1):
+        print(f"  {i:>2}. {c}")
+    print("\nFull list of all 36 codes & live updates: https://corepulse.su/wiki/promo\n")
 
 def main():
     print("=" * 60)
